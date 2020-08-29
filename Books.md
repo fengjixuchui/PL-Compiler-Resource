@@ -1,15 +1,5 @@
 # The Books about PL and Compiler
 
-Other Resource:
-
-[Courses](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Courses.md)
-
-[Papers](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Papers.md)
-
-[Blogs](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Blogs.md)
-
-[Conferences and Journals](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Conferences_Journals.md)
-
 ## Compilers
 
 1. [*Compilers: Principles, Techniques, and Tools(Second Edition)*](https://www.amazon.com/dp/0321486811/) --Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jefrey D. Ullman
@@ -35,6 +25,8 @@ Other Resource:
     [中文版：flex与bison](https://book.douban.com/subject/6109479/)
 
 10. [*Parsing Techniques: A Practical Guide*](https://www.amazon.com/dp/B01B996XWO/) --Dick Grune
+
+    [中文版：《解析技术》(翻译中)](https://github.com/duguying/parsing-techniques)
 
 11. [*The Compiler Design Handbook: Optimizations and Machine Code Generation*](https://www.amazon.com/dp/B00A8SLYK4/) -- Y.N. Srikant,Priti Shankar
 
@@ -80,20 +72,42 @@ Other Resource:
 
 3. [*Advanced Design and Implementation of Virtual Machines*](https://www.amazon.com/dp/B01MXZWNQP/) --Xiao-Feng Li
 
+    [中文版：《虚拟机设计与实现——以JVM为例》](https://book.douban.com/subject/34935105/)
+
+4. [*The Garbage Collection Handbook*](http://gchandbook.org/)
+
+5. [《深入理解Android——Java虚拟机ART》](https://book.douban.com/subject/33390277/) --邓凡平
+
+6. [《深入解析Android虚拟机》](https://book.douban.com/subject/30160468/) --钟世礼
+
+7. [《深入理解Java虚拟机（第3版）》](https://book.douban.com/subject/34907497/) --周志明
+
 ## Programming Languages
 
 1. [*Programming Languages: Application and Interpretation*](https://www.plai.org/) --[Shriram Krishnamurthi](https://cs.brown.edu/~sk/)
 
     [中文版](https://github.com/lotuc/PLAI-cn)
 
-2. [*Essentials of Programming Languages*](http://www.eopl3.com/) --Third Edition
+2. [*Essentials of Programming Languages (Third Edition)*](http://www.eopl3.com/)
 
-3. [*The Implementation of Functional Programming Languages*](https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fslpj-book-1987%2F) --[Simon Peyton Jones](https://www.microsoft.com/en-us/research/people/simonpj/)
+3. [*Programming Language Pragmatics (Fourth Edition)*](https://book.douban.com/subject/26424018/) --Michael L. Scott
 
-4. [*Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers)*](https://www.amazon.com/dp/193435645X/) --Terence Parr
+    [中文版：《程序设计语言：实践之路（第3版）》](https://book.douban.com/subject/10802357/)
 
-5. [*Types and Programming Languages*](https://www.amazon.com/dp/0262162091/) --Benjamin C. Pierce
+4. [*The Implementation of Functional Programming Languages*](https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fslpj-book-1987%2F) --[Simon Peyton Jones](https://www.microsoft.com/en-us/research/people/simonpj/)
 
-6. [*Advanced Topics in Types and Programming Languages*](https://www.amazon.com/dp/B008UZ02BE/) --Benjamin C. Pierce
+5. [*Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers)*](https://www.amazon.com/dp/193435645X/) --Terence Parr
 
-7. [*Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers)*](https://www.amazon.com/dp/193435645X/) --Terence Parr
+6. [*Types and Programming Languages*](https://www.amazon.com/dp/0262162091/) --Benjamin C. Pierce
+
+7. [*Advanced Topics in Types and Programming Languages*](https://www.amazon.com/dp/B008UZ02BE/) --Benjamin C. Pierce
+
+8. [*Concepts of Programming Languages (11th Edition)*](https://www.amazon.com/dp/9353438896) --Robert W. Sebesta
+
+9. [*Design Concepts in Programming Languages *](http://dcpl.mit.edu/) --Franklyn Turbak and David Gifford
+
+10. [*Concepts, Techniques and Models of Computer Programming*](https://www.info.ucl.ac.be/~pvr/book.html) --Peter Van Roy and Seif Haridi
+
+11. [*Structure and Interpretation of Computer Programs*](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs)
+
+    [相关资源](https://github.com/DeathKing/Learning-SICP)

@@ -1,15 +1,5 @@
 # The Blogs about PL and Compiler
 
-Other Resource:
-
-[Courses](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Courses.md)
-
-[Books](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Books.md)
-
-[Papers](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Papers.md)
-
-[Conferences and Journals](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Conferences_Journals.md)
-
 ## Compilers
 
 1. [Chris Lattner's Homepage](http://nondot.org/sabre/)
@@ -32,6 +22,18 @@ Other Resource:
 
 10. [小乖他爹](https://www.zhihu.com/people/shiningning)
 
+11. [PLCT-Open-Reports](https://github.com/isrc-cas/PLCT-Open-Reports)
+
+    PLCT实验室的公开演讲，或者决定公开的组内报告。
+
+12. [PLCT-Weekly](https://github.com/isrc-cas/PLCT-Weekly)
+
+    PLCT开源基础软件进展（半月刊）。
+
+13. [arkcompiler-materials](https://github.com/isrc-cas/arkcompiler-materials)
+
+    PLCT实验室收集的方舟编译器的相关分析文章和新闻。
+
 ## Program Analysis
 
 1. [Program Analysis Resources](https://gist.github.com/MattPD/00573ee14bf85ccac6bed3c0678ddbef)
@@ -40,6 +42,10 @@ Other Resource:
 
 1. [Adrian Sampson](https://www.cs.cornell.edu/~asampson/)
 
+2. [A path to enlightenment in Programming Language Theory](https://steshaw.org/plt/) --Steven Shaw
+
 ## Blog 文章
 
 1. [对 Parser 的误解](http://www.yinwang.org/blog-cn/2015/09/19/parser) --王垠
+
+2. [Virtual Machine in Android: Everything you need to know](https://android.jlelse.eu/virtual-machine-in-android-everything-you-need-to-know-9ec695f7313b)

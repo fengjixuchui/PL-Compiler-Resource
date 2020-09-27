@@ -72,7 +72,11 @@
 
     [Principles of Compiler Design](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html)
 
-15. 中科院软件所PLCT实验室 && HelloGCC && HelloLLVM
+15. University of Massachusetts at Lowell
+
+    [406: Compiler Construction](http://jeapostrophe.github.io/courses/2019/spring/406/course/) --Jay McCarthy
+
+16. 中科院软件所PLCT实验室 && HelloGCC && HelloLLVM
 
     [方舟·编译技术入门与实战](https://www.bilibili.com/video/av78503049) --吴伟
 
@@ -96,6 +100,7 @@
 
 6. 国防科技大学 --[Bilibili video](https://www.bilibili.com/video/av59119931) --王挺
 
+7. 北京航空航天大学 --[icourse](http://www.icourses.cn/sCourse/course_3288.html) --张莉
 ## Program Analysis
 
 1. Stanford University:  [CS243: Program Analysis and Optimization](https://suif.stanford.edu/~courses/cs243/)
